@@ -1,2 +1,2 @@
-# Czysta - Karta
+## Czysta - Karta
 Publiczny repozytorium dotyczące projektu na zaliczenie 
